@@ -25,7 +25,7 @@
     "package.json"
   ],
   "devDependencies": {
-    "@types/node": "10.12.2",
+    "@types/node": "6.0.46",
     "@types/jasmine": "~2.8.2",
     "@types/mock-fs": "~3.6.30",
     "shx": "~0.2.2",
@@ -35,7 +35,7 @@
     "istanbul": "^0.3.2",
     "remark-cli": "~2.0.0",
     "remark-lint": "~5.0.1",
-    "mock-fs": "~4.7.0",
+    "mock-fs": "~4.5.0",
     "tslint": "~5.4.3",
     "typescript": "~2.6.1"
   },
